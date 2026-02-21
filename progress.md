@@ -12,7 +12,14 @@
 - [x] TCP vs UDP farkı öğrenildi
 - [x] 3-Way Handshake (SYN, SYN-ACK, ACK)
 - [x] SYN Flood / DoS saldırısı kavramı
-- [ ] Subnetting pratik yapılacak
+- [ ] Subnetting (yarın devam)
+- [ ] DNS nasıl çalışır
+- [ ] DHCP nasıl çalışır
+- [ ] HTTP vs HTTPS
+- [ ] ARP nedir
+- [ ] VLAN nedir
+- [ ] Linux temel komutlar
+- [ ] Firewall türleri
 - [ ] TryHackMe Pre-Security path başlatılacak
 
 ---
